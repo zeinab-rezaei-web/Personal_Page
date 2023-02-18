@@ -5,7 +5,7 @@
 [Main URL of my site:] (http://www.zinart.ir)
 
 
-- [Demo of this Project](https://zeinab-rezaei-web.github.io/Personal_Page/)
+- [Demo of this project in Git](https://zeinab-rezaei-web.github.io/Personal_Page/)
 
 https://user-images.githubusercontent.com/121185931/219876499-848e4c1b-8712-438c-86b5-719199dd657c.mp4
 
